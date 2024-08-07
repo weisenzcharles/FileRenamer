@@ -1,2 +1,2 @@
 # FileRenamer
-MacOS FileRenamer
+MacOS FileRenamer Tool
